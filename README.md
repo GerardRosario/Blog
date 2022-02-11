@@ -1,7 +1,7 @@
-# # Blog / Content Management System
+# Blog / Content Management System
 Requirements By: Random Client
 
-
+----
 I’m a small company owner that wants to blog to the world to help generate publicity. My needs 
 are small: 
 - Give me a way to display my blog posts to everyone who comes to my site. 
