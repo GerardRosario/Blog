@@ -15,22 +15,28 @@ I’m a small company owner that wants to blog to the world to help generate pub
 
 - I am hiring someone to handle my marketing and blog posts. So, I need the ability to let them post as well. But I want to be able to approve their posts when they’re made.
 
-Login Page
+## Login Page
+
 ![Login](https://github.com/GerardRosario/Blog/blob/main/Images/BlogLogin.JPG)
 
-Main Page
+## Main Page
+
 ![Main](https://github.com/GerardRosario/Blog/blob/main/Images/BlogMain.JPG)
 
-Blog Post
+## Blog Post
+
 ![Login](https://github.com/GerardRosario/Blog/blob/main/Images/BlogPost.JPG)
 
-Comments
+## Comments
+
 ![Login](https://github.com/GerardRosario/Blog/blob/main/Images/BlogComment.JPG)
 
-Create New Content
+## Create New Content
+
 ![Login](https://github.com/GerardRosario/Blog/blob/main/Images/BlogCM.JPG)
 
-Create Account
+## Create Account
+
 ![Login](https://github.com/GerardRosario/Blog/blob/main/Images/BlogAcc.JPG)
 
 
