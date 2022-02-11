@@ -18,5 +18,6 @@ these pages. Remember, I don’t like writing straight HTML at the end of the da
 hook me up with an editor that lets me write rich text and post images, that would be awesome.
 ----- 
 I am hiring someone to handle my marketing and blog posts. So, I need the ability to let them 
-post as well. But I want to be able to approve their posts when they’re made. 
+post as well. But I want to be able to approve their posts when they’re made.
+
 
