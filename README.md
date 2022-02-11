@@ -15,6 +15,5 @@ I’m a small company owner that wants to blog to the world to help generate pub
 
 - I am hiring someone to handle my marketing and blog posts. So, I need the ability to let them post as well. But I want to be able to approve their posts when they’re made.
 
-
-
+![Login](https://github.com/GerardRosario/Blog/blob/main/Images/BlogLogin.JPG)
 
