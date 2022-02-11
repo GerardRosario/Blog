@@ -4,8 +4,8 @@ Requirements By: Random Client
 ----
 **I’m a small company owner that wants to blog to the world to help generate publicity. My needs
 are small:**
-- **Give me a way to display my blog posts to everyone who comes to my site. 
-- **Give me a way to enter my blog posts so that only I can add them. 
+- Give me a way to display my blog posts to everyone who comes to my site. 
+- Give me a way to enter my blog posts so that only I can add them. 
 ----
 Now, I don’t want to have to write HTML in my blog posts. Could you give me a way to write my posts in an editor like Word? I hear there’s something called TinyMCE. Can you hook me up? 
 ---- 
